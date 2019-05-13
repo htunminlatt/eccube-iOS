@@ -5,7 +5,7 @@
 
 #import "WebViewController.h"
 
-static NSString *const kDefaultStartUrl = @"http://example.com";
+static NSString *const kDefaultStartUrl = @"https://demo4.ec-cube.net";
 
 @interface WebViewController () <UIWebViewDelegate>
 
